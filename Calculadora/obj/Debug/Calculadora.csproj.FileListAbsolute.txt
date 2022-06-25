@@ -8,3 +8,14 @@ C:\Users\Prueba\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.cspro
 C:\Users\Prueba\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\Prueba\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
 C:\Users\Prueba\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.miCalculadora.resources
+C:\Users\yonib\source\repos\MAmartinezcalculator\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\yonib\source\repos\MAmartinezcalculator\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\yonib\source\repos\MAmartinezcalculator\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\yonib\source\repos\MAmartinezcalculator\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\yonib\source\repos\MAmartinezcalculator\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\yonib\source\repos\MAmartinezcalculator\Calculadora\obj\Debug\Calculadora.miCalculadora.resources
+C:\Users\yonib\source\repos\MAmartinezcalculator\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\yonib\source\repos\MAmartinezcalculator\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\yonib\source\repos\MAmartinezcalculator\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\yonib\source\repos\MAmartinezcalculator\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\yonib\source\repos\MAmartinezcalculator\Calculadora\obj\Debug\Calculadora.pdb
